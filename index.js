@@ -1,13 +1,4 @@
-console.log(1);
-console.log(2);
-console.log(2);
-console.log(2);
-console.log(2);
-console.log(2);
-console.log(2);
-console.log(2);
-console.log(2);
-console.log(2);
-console.log(2);
-console.log(2);
-console.log(2);
+function fn() {
+  let a = 1;
+  console.log(a + 1);
+}
