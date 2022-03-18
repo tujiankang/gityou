@@ -1,4 +1,5 @@
 function fn() {
   let a = 1;
-  console.log(a + 1);
+  let b = 2;
+  console.log(a + b);
 }
